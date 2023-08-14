@@ -21,14 +21,14 @@
 title: Catatumbo
 email: f@catatumboaudio.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Ideas, solutions and workflows that have helped, or hurt in the complex environment of music creation, production, engineering and all the gear that helps us .
+  Ideas, solutions and workflows that have helped, (or hurt) in the complex environment of music creation, production, engineering and all the gear that helps us produce and capture the sounds that will join your life.
 baseurl: "/thoughts" # the subpath of your site, e.g. /blog
 url: "http://catatumboaudio.com" # the base hostname & protocol for your site, e.g.
 twitter_username: jekyllrb
 github_username:  catataudio
 
 # Build settings
-theme: minima
+remote-theme: Flexible-Jekyll
 plugins:
   - jekyll-feed
 
